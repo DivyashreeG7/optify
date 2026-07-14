@@ -1,0 +1,6 @@
+{
+  "name": "Optify",
+  "description": "Optify is a premier web design and development agency. We build fast, beautiful, and scalable websites that help businesses attract customers and stand out online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
